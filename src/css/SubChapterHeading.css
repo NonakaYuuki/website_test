@@ -1,0 +1,8 @@
+.subchapter-heading {
+    padding: 0px; /* 見出しの内側の余白を追加 */
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    border-top: 2px solid rgb(122, 170, 249);
+    border-bottom: 2px solid rgb(122, 170, 249);
+  }

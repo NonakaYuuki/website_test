@@ -1,0 +1,24 @@
+.dashedlist-container {
+    border: 2px dashed rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .dashedlist-item {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .dashedlist-item > div {
+    margin-bottom: 10px;
+  }
+
+  .list-title {
+    
+    top: -20px; /* 上方向に20px移動 */
+    left: -20px; /* 左方向に20px移動 */
+    font-size: 12px; /* フォントサイズを12pxに設定 */
+    font-weight: bold; /* 太字に設定 */
+    color: blue; /* 文字色を青に設定 */
+  }

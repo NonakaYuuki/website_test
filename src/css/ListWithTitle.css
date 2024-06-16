@@ -1,0 +1,17 @@
+.container {
+    border: 4px solid rgb(122, 170, 249); /* 外枠の青線 */
+    padding: 5px; /* 外枠からの余白 */
+  }
+  
+  .title {
+    display: block; /* ブロック要素として表示 */
+    margin-top: -45px; /* タイトルを外枠の上部にオーバーラップ */
+    background-color: rgb(122, 170, 249); /* タイトルの背景色 */
+    padding: 0 5px; /* タイトルの余白 */
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    margin-left: -9px;
+  }

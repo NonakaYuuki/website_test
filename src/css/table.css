@@ -1,0 +1,28 @@
+.my-table tr:nth-child(even) {
+    background-color: #f50691;
+  }
+
+  .blue-background {
+    background-color: rgb(211, 230, 246);
+    font-size: 20px;
+    border-collapse: collapse;
+    border: none;
+    width: 100%;
+    border-left: 4px solid rgb(6, 105, 245);
+    padding-right: 10px;
+  }
+
+  .agenda-background {
+    background-color: rgb(238, 238, 238);
+    font-size: 20px;
+    border-collapse: collapse;
+    border: none;
+    width: 100%;
+    border-top: 4px solid rgb(0, 0, 0);
+    padding-right: 10px;
+  }
+  
+  .table td {
+    padding: 180px; /* セル内の余白 */
+    text-align: right; /* テキストを左揃えに */
+  }

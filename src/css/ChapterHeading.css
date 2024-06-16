@@ -1,0 +1,9 @@
+.chapter-heading {
+    border: 2px solid rgb(122, 170, 249); /* 外枠を青の太線に設定 */
+    border-radius: 10px; /* 角を丸めて四角形にする */
+    padding: 3px; /* 見出しの内側の余白を追加 */
+    background-color: rgb(122, 170, 249);
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+  }

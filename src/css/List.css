@@ -1,0 +1,15 @@
+.list-container {
+    border: 2px solid rgb(122, 170, 249);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .list-item {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .list-item > div {
+    margin-bottom: 10px;
+  }
